@@ -1,5 +1,5 @@
 # 💫 About Me:
-Undergraduate Computer Science Student at the University of Exeter.<br>
+Undergraduate Computer Science Student at the University of Exeter.<br><br>
 Looking for placements<br><br>
 
 
@@ -12,5 +12,3 @@ Looking for placements<br><br>
 ![](https://github-readme-stats.vercel.app/api?username=abdullahqutob&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abdullahqutob&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahqutob&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
