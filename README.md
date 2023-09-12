@@ -1,6 +1,5 @@
 # 💫 About Me:
 Undergraduate Computer Science Student at the University of Exeter.<br><br>
-Looking for placements starting June-Sept 2023.<br><br>
 
 
 ## 🌐 Socials:
